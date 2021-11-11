@@ -33,6 +33,7 @@
     "request": "^2.72.0"
   },
   "devDependencies": {
+    "coffee": "^5.4.0",
     "uvu": "^0.5.2"
   }
 }
